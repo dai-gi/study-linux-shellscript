@@ -16,3 +16,10 @@
   - cp
   - rm
   - find
+- テキスト操作
+  - cat
+  - less
+  - head
+  - sort
+  - grep
+  - man
